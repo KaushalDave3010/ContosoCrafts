@@ -1,0 +1,12 @@
+1. Create a new ASP.NET Web Application and Name the application ContosoCrafts.
+	Create a new folder Data in the wwwroot folder and put a Json File in it.
+
+2. Create a new folder Models and create a new class name Product.cs.
+	Create property as per the JSON file.
+
+3. Create Services Folder and create a new class with the name JsonFileProductService.cs.
+	In this class copy past the code :)
+	services.AddTransient<JsonFileProductService>(); Service in startup class.	
+
+4. Add CSS and styling for batter user experience.
+
